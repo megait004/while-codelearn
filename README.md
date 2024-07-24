@@ -1,45 +1,45 @@
-# Bài Tập Mẫu - Code Learn (Vòng Lặp: for) 🚀
+# Bài Tập Mẫu - Code Learn (Vòng Lặp: while và do-while) 🚀
 
 ## 📘 Giới Thiệu
-Dưới đây là các bài tập mẫu về vòng lặp for trong C++, giúp bạn nắm vững cách sử dụng vòng lặp để lặp lại các hành động theo yêu cầu.Bạn có thể truy cập [tại đây](https://codelearn.io/learning/cpp-cho-nguoi-moi-bat-dau?activityType=12&activityId=487&tab=syllabus).
+Dưới đây là các bài tập mẫu về vòng lặp while và do-while trong C++, giúp bạn hiểu rõ cách sử dụng các vòng lặp để thực hiện các hành động lặp lại theo điều kiện.Bạn có thể truy cập [tại đây](https://codelearn.io/learning/cpp-cho-nguoi-moi-bat-dau?activityType=12&activityId=495&tab=syllabus).
 
 ## 📂 Danh Sách Bài Tập
 
-### 📝 Vòng lặp: for
-⏳ 27 phút
-![For Loop](https://img.icons8.com/clouds/100/000000/for-loop.png)
+### 📝 Vòng lặp: while và do-while
+⏳ 33 phút
+![While and Do-While](https://img.icons8.com/clouds/100/000000/loop.png)
 
-### 📝 Vòng lặp for trong C++
+### 📝 Vòng lặp while trong C++
 ⏳ 15 phút
-![For Loop](https://img.icons8.com/clouds/100/000000/for-loop.png)
+![While Loop](https://img.icons8.com/clouds/100/000000/while.png)
 
-### 📝 Bài tập C++ cơ bản: hiển thị ra màn hình các số từ a tới b
+### 📝 Bài tập C++ cơ bản: đếm số ước của một số được nhập vào từ bàn phím
 ⏳ 12 phút
-![Display Numbers](https://img.icons8.com/clouds/100/000000/number.png)
+![Count Divisors](https://img.icons8.com/clouds/100/000000/divisor.png)
 
-### 📝 Bài tập về vòng lặp trong C++: tính tổng các số từ n về -5
+### 📝 Bài tập về vòng lặp trong C++: tính lũy thừa bậc b của a (a mũ b)
 ⏳ 10 phút
-![Sum from n to -5](https://img.icons8.com/clouds/100/000000/sum.png)
+![Exponentiation](https://img.icons8.com/clouds/100/000000/exponent.png)
 
-### 📝 Bài tập về vòng lặp trong C++: tính tổng các số từ a tới b
+### 📝 Bài tập C++ cơ bản: tính tổng các số chia hết cho 3 và 5 trong đoạn [a, b]
 ⏳ 10 phút
-![Sum from a to b](https://img.icons8.com/clouds/100/000000/sum.png)
+![Sum Divisible by 3 and 5](https://img.icons8.com/clouds/100/000000/sum.png)
 
-### 📝 Bài tập về vòng lặp trong C++: tính tổng các số lẻ từ 0 tới n
-⏳ 10 phút
-![Sum Odd Numbers](https://img.icons8.com/clouds/100/000000/odd.png)
+### 📝 Bài tập C++ cơ bản về câu lệnh break
+⏳ 12 phút
+![Break Statement](https://img.icons8.com/clouds/100/000000/break.png)
 
-### 📝 Bài tập về vòng lặp trong C++: hiển thị ra màn hình các số chia hết cho 3 từ a tới b
-⏳ 10 phút
-![Divisible by 3](https://img.icons8.com/clouds/100/000000/divide.png)
+### 📝 Bài tập về câu lệnh continue trong C++
+⏳ 12 phút
+![Continue Statement](https://img.icons8.com/clouds/100/000000/continue.png)
 
-### 📝 Bài tập về vòng lặp trong C++: tính n giai thừa
-⏳ 10 phút
-![Factorial](https://img.icons8.com/clouds/100/000000/factorial.png)
+### 📝 Vòng lặp do-while trong C++
+⏳ 12 phút
+![Do-While Loop](https://img.icons8.com/clouds/100/000000/do-while.png)
 
-### 📝 Bài tập C++ cơ bản: hiển thị ra màn hình các ước của một số
+### 📝 Bài tập về vòng lặp do-while trong C++
 ⏳ 10 phút
-![Divisors](https://img.icons8.com/clouds/100/000000/divisor.png)
+![Do-While Exercise](https://img.icons8.com/clouds/100/000000/exercise.png)
 
 ## 📌 Lưu Ý
 - Hãy chắc chắn rằng bạn đã hiểu rõ từng bài trước khi chuyển sang bài tiếp theo.
